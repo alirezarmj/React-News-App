@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "id": "2",
+      "title": "Second News Article",
+      "content": "This is the content of the second news article."
+    },
+    {
+      "id": "3",
+      "title": "Third News Articleeee",
+      "content": "This is the content of the third news article."
+    },
+    {
+      "id": "4",
+      "title": "Fourth News Articlesss",
+      "content": "This is the content of the fourth newsssss article."
+    },
+    {
+      "id": "32aba284-c833-4990-854b-4a9e4c44ba8b",
+      "title": "new 141",
+      "content": "new description"
+    },
+    {
+      "id": "c90943e0-84b5-4589-a41c-32460ae47c12",
+      "title": "new",
+      "content": "newwwwwefef"
+    },
+    {
+      "id": "be6fd18a-192b-427a-a218-aeccd368a795",
+      "title": "new title",
+      "content": "new description_final"
+    },
+    {
+      "id": "2d6ff35a-579e-4ecd-a339-a26eb710ca42",
+      "title": "good jobbb_new",
+      "content": "new jobbb_new"
+    }
+  ]
+}
